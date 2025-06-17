@@ -2,15 +2,20 @@
 
 **Excelmate AI** is an intelligent voice-command-based tool for performing operations on Excel datasets. This project utilizes natural language classification to identify user commands and performs relevant actions on Excel files, making data interaction faster and hands-free.
 
-##  Features
+---
 
-- 🔍 Classifies user text/voice input commands using AI
-- 🧾 Reads and modifies Excel/CSV files dynamically
-- 📦 Lightweight and easy to integrate with other tools
+## 🧠 Features
+
+- 🔍 Classifies user text/voice input commands using AI  
+- 🧾 Reads and modifies Excel/CSV files dynamically  
+- 📦 Lightweight and easy to integrate with other tools  
 - 🧪 Comes with sample data for testing
 
-## Project Strucutre
+---
 
+## 🏗️ Project Structure
+
+```bash
 excelmate_ai_package/
 │
 ├── excelmate_ai/
@@ -20,11 +25,6 @@ excelmate_ai_package/
 │   └── sample_data.csv      # Sample dataset for testing
 │
 └── venv/                    # Virtual environment (optional)
-
-**📚 Dependencies**
-
-1. pandas
-2. scikit-learn
 3. nltk
 4. joblib
 (Installable via requirements.txt)
