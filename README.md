@@ -15,7 +15,9 @@
 
 ## 🏗️ Project Structure
 
-```bash
+## 🏗️ Project Structure
+
+```text
 excelmate_ai_package/
 │
 ├── excelmate_ai/
@@ -25,6 +27,7 @@ excelmate_ai_package/
 │   └── sample_data.csv      # Sample dataset for testing
 │
 └── venv/                    # Virtual environment (optional)
+
 3. nltk
 4. joblib
 (Installable via requirements.txt)
