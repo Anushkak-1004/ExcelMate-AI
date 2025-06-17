@@ -15,8 +15,6 @@
 
 ## 🏗️ Project Structure
 
-## 🏗️ Project Structure
-
 ```text
 excelmate_ai_package/
 │
@@ -28,29 +26,26 @@ excelmate_ai_package/
 │
 └── venv/                    # Virtual environment (optional)
 
-3. nltk
-4. joblib
-(Installable via requirements.txt)
 
-**⚙️ How to Set Up**
+## ⚙️ How to Set Up
 
-💡 Python 3.10 or higher recommended
+> 💡 **Python 3.10 or higher** recommended
 
-1. Clone or extract the repository
-   git clone https://github.com/yourusername/excelmate-ai.git
-   cd excelmate-ai/excelmate_ai_package/excelmate_ai
+### 1. Clone or extract the repository
 
-2. Install dependencies
-    pip install -r requirements.txt
+```bash
+git clone https://github.com/yourusername/excelmate-ai.git
+cd excelmate-ai/excelmate_ai_package/excelmate_ai
 
-3. Run the application
-    python app.py
+.### 2. Install dependencies
 
-**💡 Future Enhancements**
+```bash
+pip install -r requirements.
 
-1. Speech-to-text integration for full voice control
+### 3.  Run the application
 
-2. Dash/Flask-based web dashboard
+```bash
+   python app.py
 
-3. Agentic AI for multi-step command chaining
+
 
