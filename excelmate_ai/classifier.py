@@ -8,7 +8,7 @@ import docx  # type: ignore
 import time
 
 # Initialize Groq client
-groq_client = groq.Client(api_key="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")  # Replace with your key
+groq_client = groq.Client("Your API key")  # Replace with your key
 
 # -------------------------
 # File Reading & Extraction
